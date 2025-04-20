@@ -32,3 +32,8 @@ body {
     flex-direction: column;
     gap: 15px;
   }
+  form div,
+  fieldset {
+    display: flex;
+    flex-direction: column;
+  }
