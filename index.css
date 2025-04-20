@@ -76,7 +76,7 @@ body {
   }
   button {
     padding: 12px;
-    background-color: #4b0082;
+    background-color:aqua;
     color: white;
     border: none;
     border-radius: 8px;
@@ -86,5 +86,12 @@ body {
     transition: background-color 0.3s ease;
   }
   button:hover {
-    background-color: #6a0dad;
+    background-color:purple;
+  }
+  #result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #006400;
+    text-align: center;
   }
