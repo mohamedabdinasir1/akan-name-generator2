@@ -27,3 +27,8 @@ body {
     color: #4b0082;
     margin-bottom: 10px;
   }
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
