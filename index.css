@@ -54,3 +54,9 @@ body {
     border-radius: 8px;
     margin-top: 10px;
   }
+  legend {
+    font-weight: bold;
+    font-size: 1rem;
+    color: #4b0082;
+    margin-bottom: 10px;
+  }
