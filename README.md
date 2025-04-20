@@ -34,3 +34,4 @@ Akan Name Generator is a simple web application that calculates the day of the w
 - The app assigns and displays the appropriate Akan name based on gender and day
 
 ##  link
+https://github.com/mohamedabdinasir1/akan-name-generator2
