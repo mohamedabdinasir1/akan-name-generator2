@@ -65,3 +65,9 @@ body {
     font-weight: 500;
     color: black;
   }
+  fieldset input[type="radio"] {
+    margin-bottom: 10px;
+    accent-color: #4b0082;
+    transform: scale(1.2);
+    margin-left: 5px;
+  }
